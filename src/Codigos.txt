@@ -1,0 +1,19 @@
+Como funciona os scripts:
+
+PlayerMovement -Adcionar ao player, o player precisa ter um collider trigger, 
+CharacterController
+
+Camera Movement - Adcionar a camera, ela fara um target em um tranform, linkar o player
+
+Vela - Ela fara o spaw da vela, voce tera que linkar quais as posiçoes de spaw, e qual
+o objeto ira spawnar
+
+Dificil/Facil/Medio - linkar no personagem
+
+ExemploMusica4/Exemplomusica2/exemploMusica3 - neste script voce colocara como sera feita
+a ordem que ira tocar a musica e acender a luz na posição do local que o personagem ira pisar. voce tera que linkar as luzes
+e o audio 2 vezes
+
+
+
+Menu - Linkar o Niveis, Intruções e Créditos, nele tera toda a logica para os botões.
